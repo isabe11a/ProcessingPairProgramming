@@ -1,13 +1,12 @@
-int resX = 1500;
-int resY = 700;
-int step = 10;
-int len = 5;
+int resX = 1200;
+int resY = 500;
+int step = 20;
+int len = 10;
 int bckCol = 255;
 int strkCol = 0;
 
 void setup() {
   size(resX, resY);
-  stroke(0);
 }
 
 void draw() {
